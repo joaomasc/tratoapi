@@ -1,4 +1,4 @@
-# Tratos Saicon API
+# Tratos API
 
 API REST para gerenciamento de alimentação de animais (tratos), desenvolvida com FastAPI e PostgreSQL.
 
